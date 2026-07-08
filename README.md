@@ -1,7 +1,7 @@
 # Toda Modas — Site institucional
 
-Site institucional moderno, responsivo e otimizado para SEO da loja de roupas
-**Toda Modas**, localizada em Cidade São Mateus, São Paulo - SP.
+Site institucional moderno, responsivo e otimizado para SEO da loja de moda
+feminina **Toda Modas**, localizada em Cidade São Mateus, São Paulo - SP.
 
 Construído com **HTML5, CSS3 e JavaScript puro** (sem dependências de build),
 para carregamento rápido e fácil hospedagem em qualquer serviço estático
@@ -54,6 +54,7 @@ python3 -m http.server 8000
 
 ## 📍 Dados da loja
 
+- **Segmento:** moda feminina
 - **Endereço:** Av. Mateo Bei, 2717 - Cidade São Mateus, São Paulo - SP, CEP 03949-012
 - **Telefone / WhatsApp:** (11) 2691-2472
 - **Horário:** aberto diariamente a partir das 10h
